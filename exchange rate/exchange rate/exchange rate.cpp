@@ -8,6 +8,8 @@ int main(){
 	cout << endl;
 	cout << "************Exchange Rate***************" << endl;
 	cout << Bath << " Baths is " << Bath * 0.033 << " dollars" << endl;
-	cout << Bath << " Baths is " << Bath * 0.029 << " dollars" << endl;
+	cout << Bath << " Baths is " << Bath * 0.029 << " Euro" << endl;
+	cout << Bath << " Baths is " << Bath * 3.52 << " Yen" << endl;
+	cout << Bath << " Baths is " << Bath * 760.66 << " dong" << endl;
 	return 0 ;
 }
